@@ -1,6 +1,6 @@
 Package: dash
 Version: 0.0.1
-Title: Addin to Run a Selection as a Background Job
+Title: RStudio Addin to Run a Selection as a Background Job
 Description: Jumping the gun to utilise RStudio Jobs. This will likely 
    be implemented properly later, but I'm impatient and wanted to play.
 Authors@R: person("Jonathan", "Carroll", 

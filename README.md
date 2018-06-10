@@ -1,5 +1,9 @@
 # dash
 
+RStudio Addin to Run a Selection as a Background Job
+
+![](tools/dash.png)
+
 RStudio daily release now includes a Jobs pane. See this excellent demo from @hrbrmstr for details.
 
 <iframe width="780" height="480" src="https://www.youtube.com/embed/EBlk1kRbKeU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
