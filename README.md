@@ -6,7 +6,9 @@ RStudio Addin to Run a Selection as a Background Job
 
 RStudio daily release now includes a Jobs pane. See this excellent demo from @hrbrmstr for details.
 
-<iframe width="780" height="480" src="https://www.youtube.com/embed/EBlk1kRbKeU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EBlk1kRbKeU
+" target="_blank"><img src="http://img.youtube.com/vi/EBlk1kRbKeU/0.jpg" 
+alt="RStudio Jobs" width="240" height="180" border="10" /></a>
 
 This allows one to source a script as a background job. But what about incidental code? This Addin allows one to highlight a region of code to be run as a background job.
 
