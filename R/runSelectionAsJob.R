@@ -15,4 +15,11 @@ runSelectionAsJob <- function() {
     exportEnv = "R_GlobalEnv"
   )
 
+  ## delete temporary file
+  on.exit({
+    ## allow time for scripting to start
+    Sys.sleep(1)
+    unlink(tf)
+  })
+
 }
