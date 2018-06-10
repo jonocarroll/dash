@@ -1,0 +1,4 @@
+Name: Run as Job in Background
+Description: Runs the selection as a background Job.
+Binding: runSelectionAsJob
+Interactive: false
