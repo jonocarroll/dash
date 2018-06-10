@@ -1,9 +1,14 @@
 Package: dash
-Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
-Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
-License: What license it uses
+Version: 0.0.1
+Title: Addin to Run a Selection as a Background Job
+Description: Jumping the gun to utilise RStudio Jobs. This will likely 
+   be implemented properly later, but I'm impatient and wanted to play.
+Authors@R: person("Jonathan", "Carroll", 
+ email = "rpkg@jcarroll.com.au", 
+ role = c("aut", "cre"), 
+ comment = c(ORCID = "0000-0002-1404-5264"))
+Maintainer: Jonathan Carroll <rpkg@jcarroll.com.au>
+License: WGPL (>=3)
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
