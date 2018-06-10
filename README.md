@@ -26,3 +26,5 @@ devtools::install_gitlab("jonocarroll/dash")
 * `dash` hastily pre-empts any official implementation, and as such will be rendered useless once that is complete.
 * There doesn't appear to be an exported way to STOP a job, so keep an eye on your infinite loops.
 * `dash` writes the selection as a temporary file and sources that, so the selected code must be valid.
+* Obviously requires a fairly recent version of RStudio.
+* `install_gitlab` requires the development version of `r-lib/devtools`.
