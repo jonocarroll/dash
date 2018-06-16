@@ -14,6 +14,7 @@ runSelectionAsJob <- function() {
     ## results to the global environment
     .rs.api.runScriptJob(
       path = path.expand(tf),
+      importEnv = TRUE,
       workingDir = getwd(),
       exportEnv = "R_GlobalEnv"
     )
